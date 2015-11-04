@@ -1,0 +1,35 @@
+commit 1d1a0eeaff05d5158227f60db88709a9b5620017
+Author: serpanalo <serpanalo@gmail.com>
+Date:   Tue Oct 27 06:45:59 2015 +0100
+
+    Agregado portafolio
+
+commit 2af5e5790ce7cca6366121544087213a78bacec4
+Author: serpanalo <serpanalo@gmail.com>
+Date:   Tue Oct 27 06:45:10 2015 +0100
+
+    Agregado descripcion
+
+commit 7114ef70b923054dc56683b9d51db5b3989b4b3a
+Author: serpanalo <serpanalo@gmail.com>
+Date:   Tue Oct 27 06:44:10 2015 +0100
+
+    Agregado redes sociales
+
+commit 3a26705d83ed3cd3fd4dc6afb84222e3d3aaf708
+Author: serpanalo <serpanalo@gmail.com>
+Date:   Tue Oct 27 06:38:20 2015 +0100
+
+    Perfil web escrito
+
+commit 22351bad38c6e0212acfa071ddd19f5cf89dcd58
+Author: serpanalo <serpanalo@gmail.com>
+Date:   Tue Oct 27 06:36:00 2015 +0100
+
+    Foto y nommbre cambiados
+
+commit 4be557b08768f46b69e45350752af8f1cbd28ce3
+Author: Sergio Pantoja <sergiopantoja@MacBook-Pro-de-Sergio-2.local>
+Date:   Thu Oct 22 07:16:26 2015 +0200
+
+    Archivos base de proyecto
